@@ -50,7 +50,7 @@ public class Main {
         System.out.println("Всего работников в компании — " + totalEmployees + " человек.");
         totalEmployees = totalEmployees + 94;
         hoursPerEmployee = totalHours / totalEmployees;
-        System.out.println("Если в компании работает " + totalEmployees + " человек, тo всего " + hoursPerEmployee + " часов работы может быть поделено между сотрудниками.");
+        System.out.println("Если в компании работает " + totalEmployees + " человек, тo всего " + hoursPerEmployee + " часов работы может быть поделено между сотрудниками!");
 
 
 
